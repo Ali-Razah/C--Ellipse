@@ -9,5 +9,5 @@
    05.Rebuild the solution by clicking "Build" > "Rebuild Solution" in the menu bar.<br/>
    06.Check the Toolbox for the "EllipseForm" control, which should now be available to use in your project.<br/>
    07.Enjoy!🤞🤞🤞<br/>
-
-<b>That's it! Now others can easily use your project by following these simple steps. Don't forget to update your README file if you make any changes to your project in the future. Good luck with your project!</b>
+ 
+ 
